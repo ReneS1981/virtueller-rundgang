@@ -59,13 +59,13 @@ var APP_DATA = {
           "yaw": -0.0566016450045943,
           "pitch": 0.008849135873035152,
           "title": "WC EG",
-          "text": "<img source src=’images/WC EG.jpg‘></img>"
+          "text": "<img source src=’img/WC EG.jpg‘></img>"
         },
         {
           "yaw": 0.1926691111702432,
           "pitch": -0.1089481486175714,
           "title": "Bad EG noch Rohzustand",
-          "text": "<img source src=’images/Bad EG.jpg‘></img>"
+          "text": "<img source src=’img/Bad EG.jpg‘></img>"
         }
       ]
     },
@@ -210,7 +210,7 @@ var APP_DATA = {
           "yaw": -0.7409088974729343,
           "pitch": 0.003146187815049828,
           "title": "WC OG&nbsp;",
-          "text": "<img source src=’images/WC OG.jpg‘></img>"
+          "text": "<img source src=’img/WC OG.jpg‘></img>"
         }
       ]
     },
@@ -293,7 +293,7 @@ var APP_DATA = {
           "yaw": 1.5291726885564616,
           "pitch": -0.01955069645500096,
           "title": "Dusche",
-          "text": "<img source src=’images/Dusche.jpg‘></img>"
+          "text": "<img source src=’img/Dusche.jpg‘></img>"
         },
         {
           "yaw": 2.5320433512284763,
@@ -344,7 +344,7 @@ var APP_DATA = {
           "yaw": 2.655791162700245,
           "pitch": 0.024803965613646284,
           "title": "Balkon",
-          "text": "<img source src=’images/Balkon.jpg‘></img>"
+          "text": "<img source src=’img/Balkon.jpg‘></img>"
         }
       ]
     },
@@ -389,13 +389,13 @@ var APP_DATA = {
           "yaw": 2.083967590408168,
           "pitch": -0.013775556689168411,
           "title": "Balkon",
-          "text": "<img source src=’images/Balkon.jpg‘></img>"
+          "text": "<img source src=’img/Balkon.jpg‘></img>"
         },
         {
           "yaw": -1.2022117283681073,
           "pitch": -0.03643198834725325,
           "title": "Schrankraum",
-          "text": "<img source src=’images/Schrankraum.jpg‘></img>"
+          "text": "<img source src=’img/Schrankraum.jpg‘></img>"
         }
       ]
     },
@@ -440,7 +440,7 @@ var APP_DATA = {
           "yaw": -1.7558410950908225,
           "pitch": -0.014216032001758805,
           "title": "Lagerraum",
-          "text": "<img source src=’images/Lagerraum Keller.jpg‘></img>"
+          "text": "<img source src=’img/Lagerraum Keller.jpg‘></img>"
         },
         {
           "yaw": -2.4695733134247178,
@@ -452,7 +452,7 @@ var APP_DATA = {
           "yaw": 2.851923183612458,
           "pitch": 0.0753468510685309,
           "title": "Stiegenhaus/Waschraum",
-          "text": "<img source src=’images/Waschraum KG.jpg‘></img>"
+          "text": "<img source src=’img/Waschraum KG.jpg‘></img>"
         }
       ]
     }
