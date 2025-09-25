@@ -59,7 +59,7 @@ var APP_DATA = {
           "yaw": -0.0566016450045943,
           "pitch": 0.008849135873035152,
           "title": "WC EG",
-          "text": "<img src=https://raw.githubusercontent.com/ReneS1981/virtueller-rundgang/main/img/WC%20EG.jpg´>"
+          "text": "<img src=https://raw.githubusercontent.com/ReneS1981/virtueller-rundgang/main/img/WC_EG.jpg´>"
         },
         {
           "yaw": 0.1926691111702432,
